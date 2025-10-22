@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Back-end`**
 
-Me chamo Lívia, sou de Salvador - BA, tenho 22 anos e atualmente curso Sistemas de Informação na Universidade Salvador (UNIFACS). Sou apaixonada por tecnologia, inovação e desenvolvimento back-end,estou sempre em busca de evoluir minhas habilidades e aprender novas tecnologias.
+Me chamo Lívia, sou de Salvador - BA, tenho 22 anos e atualmente curso Sistemas de Informação na Universidade Salvador (UNIFACS). Sou apaixonada por tecnologia, inovação e desenvolvimento back-end, estou sempre em busca de evoluir minhas habilidades e aprender novas tecnologias.
 
 
 
