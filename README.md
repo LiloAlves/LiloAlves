@@ -108,15 +108,13 @@ Me chamo Lívia, sou de Salvador - BA, tenho 22 anos e atualmente curso Sistemas
 
 ### Estatísticas
 
-
 <p>
-  
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LiloAlves&show_icons=true&theme=transparent&icon_color=800080&title_color=4169E1&text_color=000000&locale=pt-br&custom_title=Estatísticas%20do%20GitHub"
+    src="https://github-readme-stats.vercel.app/api?username=LiloAlves&show_icons=true&theme=transparent&icon_color=800080&title_color=4169E1&text_color=000000&locale=pt-br&custom_title=Estatísticas%20do%20GitHub&include_all_commits=true"
   />
 
   <img 
@@ -126,4 +124,3 @@ Me chamo Lívia, sou de Salvador - BA, tenho 22 anos e atualmente curso Sistemas
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiloAlves&layout=compact&theme=transparent&custom_title=Tecnologias&langs_count=9&icon_color=800080&title_color=4169E1&text_color=000000" 
   />
 </p>
-
